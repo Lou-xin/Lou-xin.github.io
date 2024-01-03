@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>U9系统配置-要点</title>
+    <url>/2023/12/31/u9-xi-tong-pei-zhi/</url>
+    <content><![CDATA[<h2 id="U9系统配置"><a href="#U9系统配置" class="headerlink" title="U9系统配置"></a>U9系统配置</h2><p><em><strong>关闭补丁版本强制检查</strong></em></p>
+<p><code>yonyou\U9CE\Portal\SysManageServer\bin\UFIDA.UBF.SystemManage.MainControl.xml</code></p>
+<p><img src="https://s2.loli.net/2023/12/31/BVdw9g2nPx43oIF.png" alt="image-20231215165331056"></p>
+<span id="more"></span>
+
+<p><em><strong>U9各类日志文件路径</strong></em></p>
+<p><img src="https://s2.loli.net/2023/12/27/e5yGsCZTbf9OU7l.png" alt="image-20231227165508602"></p>
+]]></content>
+      <categories>
+        <category>U9C-ERP</category>
+      </categories>
+      <tags>
+        <tag>ERP</tag>
+      </tags>
+  </entry>
+</search>
